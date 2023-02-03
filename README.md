@@ -1,6 +1,6 @@
-## OVERVIEW
+## Messenger
 
-RelatedChat is an open-source alternative communication platform. Both iOS (Swift), Android (React Native), and Web (React) version source codes are available.
+Both iOS (Swift), Android (React Native), and Web (React) version source codes are available.
 
 <img src="https://related.chat/messenger/android1.png" width="880">
 
